@@ -1,0 +1,2 @@
+# LogHighlighter
+AmiVoiceAPIを使用して文字起こしをするスクリプトです。
